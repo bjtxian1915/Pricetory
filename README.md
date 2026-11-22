@@ -1,0 +1,2 @@
+# Pricetory
+receipt print
